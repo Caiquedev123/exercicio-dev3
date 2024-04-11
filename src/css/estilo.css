@@ -1,0 +1,14 @@
+@font-face {
+    font-family: ftn1;
+    src: url("../imagens/Outfit-Black.ttf");
+}
+
+@font-face {
+    font-family: ftn2;
+    src: url("../imagens/Outfit-Regular.ttf");
+}
+
+@font-face {
+    font-family: ftn3;
+    src: url("../imagens/Outfit-SemiBold.ttf");
+}
